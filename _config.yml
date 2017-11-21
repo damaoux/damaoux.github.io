@@ -19,9 +19,9 @@ sidebar-avatar: img/avatar_m.jpg      # use absolute URL, seeing it's used in bo
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     https://zhuanlan.zhihu.com/c_87838771
+zhihu_username:     zhihu_https://zhuanlan.zhihu.com/c_87838771
 github_username:    damaoux
-jianshu_username:   http://www.jianshu.com/u/c862db8fa054
+jianshu_username:   jianshu_http://www.jianshu.com/u/c862db8fa054
 #twitter_username:   qiubaiying
 
 
