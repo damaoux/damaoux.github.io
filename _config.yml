@@ -88,6 +88,21 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-
+# MY
+my: [
+    {
+        title: "PM",
+        href: "http://www.woshipm.com/u/221660"
+    },{
+        title: "简书",
+        href: "http://www.jianshu.com/u/c862db8fa054"
+    },{
+        title: "UI中国",
+        href: "http://i.ui.cn/ucenter/994615.html"
+    },{
+        title: "知乎专栏",
+        href: "https://zhuanlan.zhihu.com/c_87838771"
+    }
+]
 
 
